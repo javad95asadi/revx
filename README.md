@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://REVX.ir/">
-<img src="https://user-images.githubusercontent.com/107450640/173981024-5ee33a72-9476-4c82-b78f-4acc4a09ae1a.png" alt="Logo" width="160" height="160">
+<img src="https://revx.ir/assets/new_logo-D49K-RYs.png" alt="Logo" width="160" height="160">
 </a>
 
 <h3 align="center">REVX</h3>
