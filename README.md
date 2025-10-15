@@ -17,11 +17,11 @@ REVX یک ابزار دسکتاپ رایگان است که FPS را افزایش
 اگر تمایل دارید از پروژه REVX حمایت کنید، لطفاً نظر خود را در شبکه‌های اجتماعی با ما به اشتراک بگذارید!
 <br />
 <br />
-<a href="https://www.instagram.com/REVX.ir?igsh=MTB4MXY1Y2UxY2l3OQ==">گزارش باگ</a>
+<a href="https://t.me/revx_admin_1">گزارش باگ</a>
 ·
-<a href="https://www.instagram.com/REVX.ir?igsh=MTB4MXY1Y2UxY2l3OQ==">دریافت پشتیبانی</a>
+<a href="https://t.me/revx_admin_1">دریافت پشتیبانی</a>
 ·
-<a href="https://www.instagram.com/REVX.ir?igsh=MTB4MXY1Y2UxY2l3OQ==">پیشنهاد ویژگی جدید</a>
+<a href="https://t.me/revx_feedback">پیشنهاد ویژگی جدید</a>
 <br />
 </p>
 </div>
@@ -78,7 +78,7 @@ C++ / C#
 نصب و راه‌اندازی
 آخرین نسخه نصب‌کننده REVX را دانلود کنید.
 
-[https://github.com/](https://github.com/)[YOUR_USERNAME]/[YOUR_REPO]/releases/latest
+https://revx.ir/download
 
 فایل نصب را اجرا کرده و برنامه را نصب کنید.
 
