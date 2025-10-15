@@ -9,7 +9,7 @@
 <img src="https://revx.ir/assets/new_logo-D49K-RYs.png" alt="Logo" width="160" height="160">
 </a>
 
-<h3 align="center">REVX</h3>
+<h3 align="center">REVX | رو ایکس</h3>
 
 <p align="center">
 REVX یک ابزار دسکتاپ رایگان است که FPS را افزایش داده، لگ ورودی را کاهش می‌دهد و عملکرد شبکه را برای بازی‌های ویدیویی و بهره‌وری روزانه بهینه می‌کند.
